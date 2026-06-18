@@ -24,7 +24,7 @@ if not GROQ_API_KEY:
 # PAGE CONFIG
 # ──────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Paper Intelligence",
+    page_title="RESEARCHFORAGE",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="collapsed",
